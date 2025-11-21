@@ -10,4 +10,4 @@ I gained this dataset in RevoU Data Analytics Course. They need to be able to mo
 ## I contributed in data cleaning and data visualisation to find the answer using Tableau.
 <a href="https://github.com/rajabhibhawa/CoffeShop_Report/blob/main/Coffee%20Shop%20Sales%20Dataset.xlsx">Coffe Shop Dataset</a>
 <a href="https://github.com/rajabhibhawa/CoffeShop_Report/blob/main/Data%20Visualisation.png">Data Visualisation</a>
-Based on the dataset provided, the most sold product types are Ethiopia, the busiest day of the week is friday with 21.701 visit likely due to on the way to the weekend, the busiest hour are 10 am likely due to on the way to lunchbreak, and January has the highest all time sales likely to start a new year with fresh mind.
+Based on the dataset provided, the most sold product types are Ethiopia, the busiest day of the week is Friday with 21.701 visit likely due to on the way to the weekend, the busiest hour are 10 am likely due to on the way to lunchbreak, and January has the highest all time sales likely to start a new year with fresh mind.
