@@ -9,5 +9,5 @@ I contributed in data cleaning and data visualisation to find out the answer usi
 4. What are the top five product categories based on sales for each of the transaction months?
 ## Answer and Conclusion
 <a href="https://github.com/rajabhibhawa/CoffeShop_Report/blob/main/Coffee%20Shop%20Sales%20Dataset.xlsx">Coffe Shop Dataset</a>
-<a href="https://github.com/rajabhibhawa/CoffeShop_Report/blob/main/Data%20Visualisation.png">Data Visualisation</a>
+<a href=Data Visual.png>Data Visualisation</a>
 Based on the dataset provided, the most sold product types are Ethiopia, the busiest day of the week is Friday with 21.701 visit likely due to on the way to the weekend, the busiest hour are 10 am likely due to on the way to lunchbreak, and January has the highest all time sales likely to start a new year with fresh mind.
